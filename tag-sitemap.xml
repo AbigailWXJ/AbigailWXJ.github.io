@@ -2,22 +2,22 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
+        <loc>https://abigailwxj.github.io/tags/JavaScript/</loc>
+        <lastmod>2019-04-22T06:39:34.337Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://abigailwxj.github.io/tags/Hexo/</loc>
-        <lastmod>2019-04-21T13:47:08.586Z</lastmod>
+        <lastmod>2019-04-22T06:41:19.352Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://abigailwxj.github.io/tags/Blog/</loc>
-        <lastmod>2019-04-21T13:47:08.586Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://abigailwxj.github.io/tags/JavaScript/</loc>
-        <lastmod>2019-04-22T06:39:34.337Z</lastmod>
+        <lastmod>2019-04-22T06:41:19.352Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
